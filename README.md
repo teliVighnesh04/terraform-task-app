@@ -11,3 +11,9 @@ This project orchestrates infrastructure creation using Terraform, providing a s
 export AWS_ACCESS_KEY_ID="anaccesskey"
 export AWS_SECRET_ACCESS_KEY="asecretkey"
 ```
+
+## Images
+
+![Console Output](https://github.com/teliVighnesh04/terraform-task-app/blob/main/output.png)
+
+![App](https://github.com/teliVighnesh04/terraform-task-app/blob/main/FlaskApp.png)
